@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# kuber
-=======
 # kuber
 <<<<<<< HEAD
 # kuber
